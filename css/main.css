@@ -283,16 +283,8 @@ form{
 .footer__navbar--list a:hover{
   color: #D47300;
 }
-
-@media (max-width: 1400px) {
-  .navbar__nav--menu{
-    display: none;
-  }
-}
-@media (max-width: 1200px) {
-  .navbar__nav--menu{
-    display: none;
-  }
+.navbar__nav--menu{
+  display: none;
 }
 @media (max-width: 992px) {
   .list2{
